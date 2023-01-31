@@ -21,4 +21,4 @@ Play and Record
 Measurement
 - The offset between the 2 recordings is the latency
 ![alt text](https://github.com/zack781/Latency_Measurement_Audacity_PyAudio_JUCE_VAC/blob/main/Screenshot%202023-01-31%20at%203.37.55%20PM.png)
-
+![alt text](https://github.com/zack781/Latency_Measurement_Audacity_PyAudio_JUCE_VAC/blob/main/Screenshot%202023-01-31%20at%204.40.14%20PM.png)
